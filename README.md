@@ -32,7 +32,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=amdamv&theme=tokyonight&show_icons=true&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=amdamv&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amdamv&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>

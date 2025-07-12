@@ -62,5 +62,5 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=visits&query=value&url=https://api.countapi.xyz/hit/amdanmv/visits" />
+  <img src="https://profile-counter.glitch.me/amdanmv/count.svg" alt="visitor badge"/>
 </p>

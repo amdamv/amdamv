@@ -62,5 +62,5 @@
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/amdanmv/count.svg" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=amdanmv&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>

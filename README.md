@@ -62,5 +62,5 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Profile-Views-informational?style=for-the-badge&logo=github" />
+  <img src="https://profile-counter.glitch.me/amdanmv/count.svg" alt="Profile Views"/>
 </p>

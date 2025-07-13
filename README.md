@@ -37,12 +37,6 @@
   </tr>
 </table>
 
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amdamv&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
--->
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -58,9 +52,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amdamv/amdamv/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/amdamv/amdamv/output/github-snake.svg" />
 </picture>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=visits&query=value&url=https://api.countapi.xyz/hit/amdanmv/visits" />
-</p>
